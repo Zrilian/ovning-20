@@ -116,3 +116,7 @@ display: -webkit-box;
 .loading.hidden {
     display: none;
 }
+
+footer{
+    background-color: magenta;
+}
